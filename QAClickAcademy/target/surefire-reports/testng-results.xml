@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18625" started-at="2021-08-16T06:58:41Z" finished-at="2021-08-16T06:59:00Z">
+    <groups>
+    </groups>
+    <test name="Validating Navigation Bar" duration-ms="18625" started-at="2021-08-16T06:58:41Z" finished-at="2021-08-16T06:59:00Z">
+      <class name="Academy.ValidateNavigationBar">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Academy.ValidateNavigationBar@41a2befb]" name="initialize" is-config="true" duration-ms="13668" started-at="2021-08-16T12:28:41Z" finished-at="2021-08-16T12:28:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="validateAppNavBar()[pri:0, instance:Academy.ValidateNavigationBar@41a2befb]" name="validateAppNavBar" duration-ms="1950" started-at="2021-08-16T12:28:55Z" finished-at="2021-08-16T12:28:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAppNavBar -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Academy.ValidateNavigationBar@41a2befb]" name="teardown" is-config="true" duration-ms="2777" started-at="2021-08-16T12:28:57Z" finished-at="2021-08-16T12:29:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Academy.ValidateNavigationBar -->
+    </test> <!-- Validating Navigation Bar -->
+  </suite> <!-- Suite -->
+</testng-results>
